@@ -1,5 +1,11 @@
 <h1 align="center">Hola 👋, Soy Jaime Gold</h1>
-<h3 align="center">Un Data Scientist con una pasión por convertir datos en conocimientos valiosos y accionables.</h3>
+<h3 align="center">Soy un Data Scientist con una pasión por convertir datos en conocimientos valiosos y accionables. Recientemente completé mi formación en Henry donde adquirí habilidades en análisis de datos, machine learning y visualización de datos utilizando herramientas como Python, SQL y PowerBI.</h3>
+
+<h3 align="center">A lo largo de mi formación, he trabajado en varios proyectos académicos que me han permitido desarrollar competencias clave en la limpieza de datos, análisis exploratorio y la implementación de modelos predictivos. Estoy entusiasmado por aplicar mis habilidades en un entorno profesional y seguir aprendiendo de expertos en la industria.</h3>
+
+<h3 align="center">Estoy comprometido con la mejora continua y estoy en constante búsqueda de nuevos retos que me permitan crecer y aportar valor a mi equipo. Estoy listo para comenzar mi carrera en la ciencia de datos y contribuir al éxito de proyectos que impulsen decisiones estratégicas basadas en datos.</h3>
+
+<h3 align="center">Si deseas realizar proyectos colaborativos contactame en jaime.gold445@gmail.com</h3>
 
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left">
